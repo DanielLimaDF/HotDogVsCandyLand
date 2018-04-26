@@ -12,4 +12,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Hot Dog vs. Candy Land? [Contact support](mailto://hvscandyland@gmail.com) and we’ll help you sort it out.
+Having trouble with Hot Dog vs. Candy Land? [Contact support](mailto:hvscandyland@gmail.com) and we’ll help you sort it out.
