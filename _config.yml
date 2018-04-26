@@ -1,3 +1,4 @@
 theme: jekyll-theme-merlot
 title: Hot Dog vs Candy Land
 description: Hot Dog vs Candy Land is a iOS and tvOS endless runner game.
+show_downloads: false
