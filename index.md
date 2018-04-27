@@ -2,6 +2,8 @@
 
 Hot Dog vs. Candy Land is an entertaining and relaxing endless runner with a pleasing look and a gravity transition mechanic.
 
+![Image of Yaktocat](appletv.png)
+
 ### Where to get the game?
 
 Hot Dog vs. Candy Land is available on the iOS and tvOS AppStore.
