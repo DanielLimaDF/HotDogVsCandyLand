@@ -4,7 +4,7 @@ Hot Dog vs. Candy Land is an entertaining and relaxing endless runner with a ple
 
 ![Apple TV](appletv.png)
 
-![iPad](appletv.png)
+![iPad](ipad.png)
 
 ### Where to get the game?
 
