@@ -3,7 +3,6 @@
 Hot Dog vs. Candy Land is an entertaining and relaxing endless runner with a pleasing look and a gravity transition mechanic.
 
 ![Apple TV](appletv.png)
-![Apple TV](appletv.png)
 
 ![iPad](ipad.png)
 
